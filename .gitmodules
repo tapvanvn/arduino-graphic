@@ -1,0 +1,3 @@
+[submodule "src/lib/graphic"]
+	path = src/lib/graphic
+	url = https://github.com/tapvanvn/arduino-graphic.git
