@@ -1,6 +1,9 @@
 #ifndef _H_GFX
 #define _H_GFX
 
+#ifndef NULL
+#define NULL 0
+#endif
 #include "GfxDevice.hpp"
 #include "GfxFont.h"
 
